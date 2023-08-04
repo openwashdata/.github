@@ -12,5 +12,7 @@ Stay up to date by subscribing to [openwashdata news](https://buttondown.email/o
 
 You can find our website here: [openwashdata.org](https://openwashdata.org/)
 
+Join our [Matrix Chat](https://matrix.to/#/#openwashdata-lobby:staffchat.ethz.ch ), a place for direct communication.
+
 ***
 This project was supported by the [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/).
